@@ -67,7 +67,7 @@ Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 F
 
 이렇다 보니 디자인 시스템의 결과물들이 비주얼적인 성격이 매우 강해 보이고, 이러한 작업을 시작하며 UX 디자이너로서 해야 하는 일에 대해 혼란을 느끼기 쉽다. 단순히 시각적 규칙을 만들어야 하는 것인지, 반복되는 컴포넌트를 모아 정리하는 역할일 뿐인 것인지, 직접 시각 요소를 다루지 않는 이상 무언가 부차적인 역할로만 느껴지고 특별히 주체성을 가지기 쉽지 않다.
 
-![앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components](../assets/images/dsux1-2.png)
+![앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components](/assets/images/dsux1-2.png)
 앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components
 {: .fs-2 }
 {: .text-center}
