@@ -58,7 +58,7 @@ nav_order: 1
 
 실제로 기업들의 디자인 시스템을 보면 하나의 디자인 언어를 맞추자는 의미에서 Foundation에 속하는 Typography, Color, Layout 등의 기본적인 GUI 규칙을 먼저 정의하고, 이러한 기초 요소들에 대한 정리를 바탕으로 버튼, 카드, 헤더 등과 같은 자주 사용되는 컴포넌트들로 확장한 백과사전을 보는 듯하다.
 
-![Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation](/assets/images/dsux1-1.png)
+![Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation](./assets/images/dsux1-1.png)
 Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation
 {: .fs-2 }
 {: .text-center}
@@ -67,7 +67,7 @@ Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 F
 
 이렇다 보니 디자인 시스템의 결과물들이 비주얼적인 성격이 매우 강해 보이고, 이러한 작업을 시작하며 UX 디자이너로서 해야 하는 일에 대해 혼란을 느끼기 쉽다. 단순히 시각적 규칙을 만들어야 하는 것인지, 반복되는 컴포넌트를 모아 정리하는 역할일 뿐인 것인지, 직접 시각 요소를 다루지 않는 이상 무언가 부차적인 역할로만 느껴지고 특별히 주체성을 가지기 쉽지 않다.
 
-![앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components](/assets/images/dsux1-2.png)
+![앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components](./assets/images/dsux1-2.png)
 앱에서 사용하는 컴포넌트 리스트로 구성되어 있는 Google Material Design의 Components
 {: .fs-2 }
 {: .text-center}
@@ -78,7 +78,7 @@ Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 F
 
 하나의 버튼 컴포넌트의 모양과 색을 정의하는 과정을 보자. 서비스 전반적으로 몇 단계의 인터랙션을 제공하고 있는지에 따라 Disabled-Default-Hover-Pressed와 같은 단계 별 컴포넌트를 정리할 수 있으며, 모바일 ・ PC와 같이 다른 Input을 가진 플랫폼에 따라 이러한 액션 단계의 변화까지 모두 앞단에서 모두 정의가 되어 있어야 한다.
 
-![하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design](/assets/images/dsux1-3.png)
+![하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design](./assets/images/dsux1-3.png)
 하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design
 {: .fs-2 }
 {: .text-center}
