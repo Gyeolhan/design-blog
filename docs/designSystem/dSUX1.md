@@ -52,13 +52,13 @@ nav_order: 1
 
 <br/>
 
-## 02 UX in Design System 22
+## 02 UX in Design System
 
 화면을 구성하는 GUI 컬렉션이라는 개념으로 디자인 시스템을 바라본다면, 디자인 시스템을 개발하는 과정에서 UX 디자이너는 어떤 역할을 가질 수 있을까?
 
 실제로 기업들의 디자인 시스템을 보면 하나의 디자인 언어를 맞추자는 의미에서 Foundation에 속하는 Typography, Color, Layout 등의 기본적인 GUI 규칙을 먼저 정의하고, 이러한 기초 요소들에 대한 정리를 바탕으로 버튼, 카드, 헤더 등과 같은 자주 사용되는 컴포넌트들로 확장한 백과사전을 보는 듯하다.
 
-![Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation](assets/images/dsux1-1.png)
+![Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation](../../assets/images/dsux1-1.png)
 Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 Foundation
 {: .fs-2 }
 {: .text-center}
