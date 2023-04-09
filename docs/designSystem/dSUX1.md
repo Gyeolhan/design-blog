@@ -52,7 +52,7 @@ nav_order: 1
 
 <br/>
 
-## 02 UX in Design System
+## 02 UX in Design System 22
 
 화면을 구성하는 GUI 컬렉션이라는 개념으로 디자인 시스템을 바라본다면, 디자인 시스템을 개발하는 과정에서 UX 디자이너는 어떤 역할을 가질 수 있을까?
 
@@ -78,7 +78,7 @@ Color, Typography와 같이 기초 요소로 구성되어 있는 Atalassian의 F
 
 하나의 버튼 컴포넌트의 모양과 색을 정의하는 과정을 보자. 서비스 전반적으로 몇 단계의 인터랙션을 제공하고 있는지에 따라 Disabled-Default-Hover-Pressed와 같은 단계 별 컴포넌트를 정리할 수 있으며, 모바일 ・ PC와 같이 다른 Input을 가진 플랫폼에 따라 이러한 액션 단계의 변화까지 모두 앞단에서 모두 정의가 되어 있어야 한다.
 
-![하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design](./assets/images/dsux1-3.png)
+![하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design](../assets/images/dsux1-3.png)
 하나의 버튼을 세부 요소로 분해하고, 사용자 인풋의 상태를 정의하여 설명하는 Google Material Design
 {: .fs-2 }
 {: .text-center}
