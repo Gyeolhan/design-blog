@@ -24,3 +24,7 @@ heading_anchors: true
 ga_tracking: G-GX426231E8
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
+
+# google search console verify
+<meta name="google-site-verification" content="CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA" />
+
