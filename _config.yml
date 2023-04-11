@@ -26,5 +26,5 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 
 # google search console verify
-<meta name="google-site-verification" content="CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA" />
-
+# <meta name="google-site-verification" content="CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA" />
+google_site_verification: CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA
