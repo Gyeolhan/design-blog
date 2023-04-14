@@ -2,6 +2,7 @@
 title: Objectified
 layout: default
 parent: Review
+date: 2021.01.01
 nav_order: 2
 ---
 
