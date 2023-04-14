@@ -2,8 +2,10 @@ title: Design Blog
 description: for exploring the area
 theme: just-the-docs
 
-url: https://gyeolhan.github.io/
+url: https://gyeolhan.github.io
 
+plugins:
+  - jekyll-sitemap
 
 # Aux links for the upper right navigation
 #aux_links:
@@ -28,7 +30,3 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 # google search console verify
 # <meta name="google-site-verification" content="CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA" />
 google_site_verification: CgbwbaSGKqkNBIKdZD83VYBgK4nXZZ1BsKq0KC-8xuA
-
-
-plugins:
-  - jekyll-sitemap
